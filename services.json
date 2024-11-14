@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "General Consultation",
+    "description": "A routine medical check-up with a healthcare provider to assess your general health and address any concerns.",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "name": "Dental Cleaning",
+    "description": "Professional teeth cleaning to remove plaque and tartar build-up, promoting oral health and preventing dental issues.",
+    "price": 75
+  },
+  {
+    "id": 3,
+    "name": "Blood Test",
+    "description": "A lab test to assess various health markers, such as cholesterol, glucose levels, and organ function.",
+    "price": 50
+  },
+  {
+    "id": 4,
+    "name": "Physical Therapy Session",
+    "description": "A session with a licensed physical therapist to help recover from injuries, improve mobility, and relieve pain.",
+    "price": 120
+  },
+  {
+    "id": 5,
+    "name": "Vaccination",
+    "description": "Immunization shots to protect against various diseases, such as flu, hepatitis, and tetanus.",
+    "price": 40
+  },
+  {
+    "id": 6,
+    "name": "Mental Health Counseling",
+    "description": "Therapeutic sessions with a licensed mental health professional to address anxiety, depression, and other emotional challenges.",
+    "price": 150
+  },
+  {
+    "id": 7,
+    "name": "X-Ray",
+    "description": "Medical imaging using X-rays to view bones and soft tissues for diagnosing fractures or other health conditions.",
+    "price": 150
+  },
+  {
+    "id": 8,
+    "name": "MRI Scan",
+    "description": "A magnetic resonance imaging (MRI) scan to produce detailed images of the body's internal structures, often used for brain or joint issues.",
+    "price": 1000
+  },
+  {
+    "id": 9,
+    "name": "ECG (Electrocardiogram)",
+    "description": "A test that records the electrical activity of the heart to detect irregularities and heart conditions.",
+    "price": 80
+  },
+  {
+    "id": 10,
+    "name": "Ultrasound",
+    "description": "An imaging procedure that uses high-frequency sound waves to produce images of the inside of the body, commonly used in pregnancy or to examine organs.",
+    "price": 200
+  },
+  {
+    "id": 11,
+    "name": "Eye Exam",
+    "description": "A thorough check-up of the eyes to assess vision and detect any signs of eye disease or abnormalities.",
+    "price": 120
+  },
+  {
+    "id": 12,
+    "name": "Hearing Test",
+    "description": "A diagnostic test to assess hearing ability and detect any hearing loss or ear-related issues.",
+    "price": 75
+  },
+  {
+    "id": 13,
+    "name": "Chiropractic Adjustment",
+    "description": "Manual manipulation of the spine to correct misalignments and alleviate back pain or discomfort.",
+    "price": 85
+  },
+  {
+    "id": 14,
+    "name": "Dermatology Consultation",
+    "description": "Consultation with a dermatologist to evaluate skin conditions, rashes, or cosmetic skin concerns.",
+    "price": 150
+  },
+  {
+    "id": 15,
+    "name": "Podiatry Consultation",
+    "description": "A consultation with a podiatrist for foot and ankle conditions, including pain, injuries, or structural issues.",
+    "price": 100
+  },
+  {
+    "id": 16,
+    "name": "Prenatal Care",
+    "description": "Comprehensive care for pregnant individuals, including regular check-ups, ultrasounds, and screenings to monitor the health of both mother and baby.",
+    "price": 200
+  },
+  {
+    "id": 17,
+    "name": "Lipid Profile Test",
+    "description": "A blood test to measure cholesterol and triglyceride levels to assess the risk of heart disease.",
+    "price": 60
+  },
+  {
+    "id": 18,
+    "name": "Allergy Testing",
+    "description": "A test to identify allergic reactions to specific substances, including food, environmental factors, or insect stings.",
+    "price": 120
+  },
+  {
+    "id": 19,
+    "name": "Cancer Screening",
+    "description": "A screening test for early detection of various cancers such as breast, colon, or prostate cancer.",
+    "price": 300
+  },
+  {
+    "id": 20,
+    "name": "Full checkUp",
+    "description": "An overnight diagnostic test to monitor sleep patterns and detect sleep disorders such as sleep apnea.",
+    "price": 500
+  },
+  {
+    "name": "Admin Consultant",
+    "description": "An Admin Consultant provides expert guidance and support to healthcare organizations in streamlining administrative processes.",
+    "price": "1000",
+    "id": 21
+  }
+]

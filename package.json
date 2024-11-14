@@ -1,0 +1,15 @@
+{
+  "name": "servicemanagnment",
+  "version": "1.0.0",
+  "description": "\"Servcice Managnment Api's\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Yatish Suvarna",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
